@@ -1,0 +1,13 @@
+O que é lógica: Coerência de raciocínios e de ideias.
+
+Lógica de programação é contextualizar a lógica na programação
+de computadores, buscando a melhor sequência de ações para solucionar
+um problema.
+
+Utilizando o método de um fluxograma fica mais fácil o entendimento 
+da programação.
+
+* Fluxograma é um tipo de diagrama e pode ser entendido como uma 
+representação esquemática de um processo.
+Na prática é uma documentação dos passos necessários para a
+execução de um processo qualquer.
