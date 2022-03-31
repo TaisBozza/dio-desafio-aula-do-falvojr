@@ -1,0 +1,11 @@
+Scrum: É uma técnica ágil em escala que oferece uma maneira de conectar
+várias equipes que precisam trabalhar juntas para chegar 
+a uma solução complexas.
+
+Pilares do Scrum:
+
+Desinadas por 3 Pilares:
+
+- Transparéncia 
+- Inspeção
+- Adaptação
